@@ -100,5 +100,5 @@ My focus is on strengthening backend development, gaining hands-on networking ex
 
 ## Connect
 
-- GitHub: https://github.com/chehabdev
+- Gmail: ahmedabdisalamsalah@gmail.com
 - LinkedIn: www.linkedin.com/in/ahmed-abdisalam87
