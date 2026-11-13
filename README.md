@@ -66,17 +66,6 @@ I'm currently broadening my skills in network engineering, Linux, cloud computin
 
 <hr />
 
-## Areas of Interest
-
-- Backend Systems & API Architecture
-- Full-Stack Application Development
-- Network Engineering & Infrastructure
-- Cloud Computing & DevOps
-- AI Integration & Automation
-- Software Deployment & System Design
-
----
-
 ## Education & Training
 
 **Technical Development**
